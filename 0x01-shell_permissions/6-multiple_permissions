@@ -1,2 +1,2 @@
 #!/bin/bash
-chown ug+x o+x ./hello
+chown 754 ./hello
