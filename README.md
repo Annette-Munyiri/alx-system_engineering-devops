@@ -8,3 +8,5 @@
   0x02. Shell Redirections
 ## Project 3
   0x03. Shell Variables and Expansions
+## Project 4
+  Command Line for the Win
