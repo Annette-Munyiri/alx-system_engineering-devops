@@ -10,3 +10,6 @@
   0x03. Shell Variables and Expansions
 ## Project 4
   Command Line for the Win
+## Project 5
+  0x04. Loops, conditions and parsing
+## Project 6
