@@ -13,3 +13,4 @@
 ## Project 5
   0x04. Loops, conditions and parsing
 ## Project 6
+  0x05. Processes and signals
