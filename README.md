@@ -14,3 +14,5 @@
   0x04. Loops, conditions and parsing
 ## Project 6
   0x05. Processes and signals
+## Project 7
+  0x06. Regular expression
