@@ -16,3 +16,6 @@
   0x05. Processes and signals
 ## Project 7
   0x06. Regular expression
+## Project 8
+  0x07. Networking basics #0
+## Project 9
